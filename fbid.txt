@@ -1,0 +1,4 @@
+	
+Forum
+App ID:	463313060453813
+App Secret:	a4cb261d628e034a29d9818dd6a9fa0a(reset)

@@ -1,0 +1,5 @@
+RewriteEngine On
+RewriteRule ^([^/]*)\.html$ /forum/read_pm.php?id=$1 [L]
+RewriteRule ^id/([^/]*)\.html$ /forum/profile.php?id=$1 [L]
+RewriteRule ^topicparent/([^/]*)\.html$ /forum/list_topics.php?parent=$1 [L]
+RewriteRule ^topicchild/([^/]*)\.html$ /forum/read_topic.php?id=$1 [L]
